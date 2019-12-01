@@ -641,6 +641,9 @@ iframe {
   .project-image {
     margin-bottom: 15px;
   }
+  .gha-gravatar {
+    visibility: hidden;
+  }
 }
 /* Small devices (tablets, 768px and up) */
 /* Medium devices (desktops, 992px and up) */
